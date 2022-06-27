@@ -2,6 +2,8 @@
 
 Daily [call object mode](https://docs.daily.co/docs/build-a-custom-video-chat-interface) demo to show how to handle track subscriptions, custom video grid pagination, and receive (simulcast encoding) settings. This demo app will be useful for anyone focusing on improving performance for large meetings in their custom Daily app and/or building a custom video grid layout.
 
+
+
 ---
 
 ## Why use manual track subscriptions?
